@@ -31834,7 +31834,7 @@ video {
 @font-face {
   font-family: 'Montserrat';
 
-  src: local('Montserrat'), url(./asset/font/Montserrat-Regular.ttf) format(tff);
+  src: local('Montserrat'), url('./asset/font/Montserrat-Regular.ttf') format(tff);
 }
 
 @media (min-width: 640px) {
